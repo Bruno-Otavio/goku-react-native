@@ -1,1 +1,1 @@
-# goku-react-native
+# Exercise React Native
